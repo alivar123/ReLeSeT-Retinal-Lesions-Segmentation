@@ -1,6 +1,6 @@
-# ReLeSet (Retinal Lesions Segmentation)
+# ReLeSeT (Retinal Lesions Segmentation)
 # Abstract
-ReLeSet represents the software tools for automatic processing of retinal lesions from retinal images. To run this software, use the file ReLeSet.exe. After running this file, an user is required to select a retinal image for the analysis. We added the folder Retinal_Images, which contain together 20 retinal images from the systems Clarity RetCam 3 and Icon PHOENIX. Consequently, a pre-processed selected retinal image will appears. Here an user is supposed to specify the center of initial contour for the further segmentation. After this step, the segmentation process is being processed, where in predefined number of iterations the active contour adopts the morphological features of the selected retinal lesion. As soon as the segmentation process is over, user will receive the following results:
+ReLeSeT represents the software tools for automatic processing of retinal lesions from retinal images. To run this software, use the file ReLeSeT.exe. After running this file, an user is required to select a retinal image for the analysis. We added the folder Retinal_Images, which contain together 20 retinal images from the systems Clarity RetCam 3 and Icon PHOENIX. Consequently, a pre-processed selected retinal image will appears. Here an user is supposed to specify the center of initial contour for the further segmentation. After this step, the segmentation process is being processed, where in predefined number of iterations the active contour adopts the morphological features of the selected retinal lesion. As soon as the segmentation process is over, user will receive the following results:
 
 Graphical results:
 
